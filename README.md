@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephmoussa" alt="josephmoussa" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/youssefmoussa" target="blank"><img src="https://img.shields.io/twitter/follow/youssefmoussa?logo=twitter&style=for-the-badge" alt="youssefmoussa" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Youssef77349792" target="blank"><img src="https://img.shields.io/twitter/follow/Youssef77349792?logo=twitter&style=for-the-badge" alt="Youssef77349792" /></a> </p>
 
 - 🔭 I’m currently working on **Speech to Text**
 
