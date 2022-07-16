@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/youssef-moussa-889b17203/](https://www.linkedin.com/in/youssef-moussa-889b17203/)
 
-- ⚡ Fun fact **Coding at night inecreases my focus**
+- ⚡ Fun fact **Coding at night increases my focus**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
